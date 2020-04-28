@@ -1,4 +1,5 @@
 <?php
+
 require_once '/var/www/common/data.inc.php';
 require_once '/var/www/common/Mobile_Detect.php';
 
