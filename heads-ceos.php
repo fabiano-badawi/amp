@@ -1,5 +1,4 @@
 <?php
-
 require_once '/var/www/common/data.inc.php';
 require_once '/var/www/common/Mobile_Detect.php';
 $detect = new Mobile_Detect;
@@ -63,7 +62,7 @@ $detect = new Mobile_Detect;
 		  *
 		  *---------------------**/
 		html{font-size: 62.5%; box-sizing: border-box;}
-		body{font-size: 2.2rem; line-height: 1.7; -webkit-font-smoothing: antialiased;}
+		body{font-size: 2.1rem; line-height: 1.7; -webkit-font-smoothing: antialiased;}
 
 		.font-1, html{font-family: 'Roboto', serif; font-weight: 400}
 
